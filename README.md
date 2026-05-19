@@ -1,4 +1,4 @@
-# console.log("Olá, meu nome é João);
+# console.log("Olá, meu nome é João");
 
 ### 👨‍💻 Sobre Mim
 - 🚀 Atualmente estou estudando e focando em **Desenvolvimento Full-Stack**.
