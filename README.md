@@ -1,9 +1,9 @@
 # Olá
 
 ### 👨‍💻 Sobre Mim
-- 🚀 Atualmente estou estudando e focando em **[Desenvolvimento Web]**.
-- 🎓 [Estudante de Análise e Desenvolvimento de Sistemas].
-- 💡 Meu objetivo atual é **[conseguir minha primeira oportunidade na área e desenvolver meus próprios projetos]**.
+- 🚀 Atualmente estou estudando e focando em **Desenvolvimento Web**.
+- 🎓 [Estudante de Análise e Desenvolvimento de Sistemas.
+- 💡 Meu objetivo atual é **conseguir minha primeira oportunidade na área e desenvolver meus próprios projetos**.
 
 ### 🛠️ Habilidades e Tecnologias
 - **Linguagens:** HTML, CSS, JavaScript, Typescript, Node, Kotlin, Java.
