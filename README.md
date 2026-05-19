@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá
 
-<!--
-**joaoVVBprg/joaoVVBprg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre Mim
+- 🚀 Atualmente estou estudando e focando em **[Desenvolvimento Web]**.
+- 🎓 [Estudante de Análise e Desenvolvimento de Sistemas].
+- 💡 Meu objetivo atual é **[conseguir minha primeira oportunidade na área e desenvolver meus próprios projetos]**.
 
-Here are some ideas to get you started:
+### 🛠️ Habilidades e Tecnologias
+- **Linguagens:** HTML, CSS, JavaScript, Typescript, Node, Kotlin, Java.
+- **Ferramentas:** Git, GitHub, VS Code, Intellij.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Como me encontrar
+- 💼 LinkedIn: [www.linkedin.com/in/joão-victor-vieira-28201a3b1]
+- 📧 E-mail: [joaovictorbetanzo@gmail.com]
