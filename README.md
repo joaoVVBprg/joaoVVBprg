@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre Mim
 - 🚀 Atualmente estou estudando e focando em **Desenvolvimento Full-Stack**.
-- 🎓 [Estudante de Análise e Desenvolvimento de Sistemas.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 💡 Meu objetivo atual é **conseguir minha primeira oportunidade na área e desenvolver meus próprios projetos**.
 
 ### 🛠️ Habilidades e Tecnologias
